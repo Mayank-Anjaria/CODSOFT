@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Anjaria</h1>
 <h3 align="center">Currently pursuing BSc.IT from GLS University</h3>
 
-- 🔭 I’m currently working on **CODSOFT Intership**
+- 🔭 This repositorie is for my **CODSOFT Intership**
 
 - 📫 How to reach me **anjaria.mayank@yahoo.com**
 
